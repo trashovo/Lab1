@@ -302,8 +302,12 @@ true, если num входит в указанный диапазон (вклю
 
 ### Тестирование
 
-![Uploading image.png…]()
-![Uploading image.png…]()
+<img width="237" height="60" alt="image" src="https://github.com/user-attachments/assets/4d2ab30d-073f-4551-afad-7ef17ee65fdf" />
+<img width="248" height="49" alt="image" src="https://github.com/user-attachments/assets/8e7ce69e-e895-437e-9255-562bb05e5f1d" />
+<img width="203" height="49" alt="image" src="https://github.com/user-attachments/assets/879c9ee9-958a-4698-8361-84c245f66893" />
+
+
+
 
 
 ## Задача 4
@@ -318,11 +322,14 @@ true, если num входит в указанный диапазон (вклю
 
 ### Алгоритм решения
 
-Алгоритм решения задачи
+Я создал метод, который внешним циклом, отвечающий за строки проходит, x раз, а внутренним выводит x символов *
 
 ### Тестирование
 
-Скриншоты результата работы программы
+<img width="340" height="157" alt="image" src="https://github.com/user-attachments/assets/283e4b33-2ca9-46ab-a213-6c350149b417" />
+<img width="334" height="71" alt="image" src="https://github.com/user-attachments/assets/8546b11e-97e4-4652-95a9-90b97049ef36" />
+
+
 
 ## Задача 5
 
@@ -338,11 +345,11 @@ true, если num входит в указанный диапазон (вклю
  
 ### Алгоритм решения
 
-Алгоритм решения задачи
+Я создал метод, который запускает внешний цикл от 1 до x (номер текущей строки = i) и выводит x - i пробелов, чтобы прижать треугольник к правому краю, а после выводит i символов *
 
 ### Тестирование
 
-Скриншоты результата работы программы
+<img width="338" height="163" alt="image" src="https://github.com/user-attachments/assets/bcef6ea7-6850-401f-8b09-34397be84c88" />
+<img width="337" height="69" alt="image" src="https://github.com/user-attachments/assets/c8e77070-55f2-4e9e-850d-7c469baed91b" />
 
-Скриншоты результата работы программы
 
